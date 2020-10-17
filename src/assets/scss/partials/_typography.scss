@@ -1,0 +1,19 @@
+@font-face {
+  font-family: "Krona";
+  src: url("/assets/fonts/KronaOne-Regular.ttf");
+}
+
+@font-face {
+  font-family: "Poppins";
+  src: url("/assets/fonts/Poppins-Regular.ttf");
+}
+
+.my-font-title {
+  font-size: 30px;
+  font-family: "Krona", "sans-serif", "arial";
+}
+
+.my-font-body {
+  font-size: 14px;
+  font-family: "Poppins", "sans-serif", "arial";
+}
